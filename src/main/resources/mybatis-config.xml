@@ -23,5 +23,10 @@
 	</environments>
 	<mappers>
 		<mapper resource="com/plase/simple/mapper/CountryMapper.xml"/>
+		<mapper resource="com/plase/simple/mapper/PrivilegeMapper.xml"/>
+		<mapper resource="com/plase/simple/mapper/RoleMapper.xml"/>
+		<mapper resource="com/plase/simple/mapper/RolePrivilegeMapper.xml"/>
+		<mapper resource="com/plase/simple/mapper/UserMapper.xml"/>
+		<mapper resource="com/plase/simple/mapper/UserRoleMapper.xml"/>	
 	</mappers>
 </configuration>
